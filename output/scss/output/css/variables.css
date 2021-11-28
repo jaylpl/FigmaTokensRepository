@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 28 Nov 2021 15:57:03 GMT
+ * Generated on Sun, 28 Nov 2021 16:14:56 GMT
  */
 
 :root {
@@ -71,6 +71,14 @@
   --font-heading-large-paragraph-spacing: $paragraphSpacing.2;
   --font-heading-large-text-case: none;
   --font-heading-large-text-decoration: none;
+  --font-heading-medium-subheading-font-family: Roboto;
+  --font-heading-medium-subheading-font-weight: Regular;
+  --font-heading-medium-subheading-line-height: AUTO;
+  --font-heading-medium-subheading-font-size: 12;
+  --font-heading-medium-subheading-letter-spacing: 0%;
+  --font-heading-medium-subheading-paragraph-spacing: 0;
+  --font-heading-medium-subheading-text-case: none;
+  --font-heading-medium-subheading-text-decoration: none;
   --font-body: #333333;
   --font-disabled: #afafaf;
   --font-danger: #eb5757;
