@@ -1,0 +1,79 @@
+/**
+ * Do not edit directly
+ * Generated on Sun, 28 Nov 2021 15:39:23 GMT
+ */
+
+:root {
+  --gray-1: #333333;
+  --gray-2: #4f4f4f;
+  --gray-3: #828282;
+  --gray-4: #bdbdbd;
+  --gray-5: #e0e0e0;
+  --gray-6: #f2f2f2;
+  --red: #eb5757;
+  --bright-orange: #f3610f;
+  --yellow: #f2c94c;
+  --green-1: #219653;
+  --green-2: #27ae60;
+  --green-3: #6fcf97;
+  --blue-1: #2f80ed;
+  --blue-2: #2d9cdb;
+  --blue-3: #56ccf2;
+  --purple-1: #9b51e0;
+  --purple-2: #bb6bd9;
+  --font-families-roboto: Roboto;
+  --line-heights-0: AUTO;
+  --font-weights-roboto-0: Regular;
+  --font-weights-roboto-1: Bold;
+  --font-size-1: 14;
+  --font-size-2: 24;
+  --font-size-default: 12;
+  --font-size-large-heading: 48;
+  --letter-spacing-0: 0%;
+  --paragraph-spacing-0: 0;
+  --font-paragraph-default-font-family: Roboto;
+  --font-paragraph-default-font-weight: Regular;
+  --font-paragraph-default-line-height: AUTO;
+  --font-paragraph-default-font-size: 12;
+  --font-paragraph-default-letter-spacing: 0%;
+  --font-paragraph-default-paragraph-spacing: 0;
+  --font-paragraph-default-text-case: none;
+  --font-paragraph-default-text-decoration: none;
+  --font-paragraph-medium-font-family: Roboto;
+  --font-paragraph-medium-font-weight: Regular;
+  --font-paragraph-medium-line-height: AUTO;
+  --font-paragraph-medium-font-size: 18;
+  --font-paragraph-medium-letter-spacing: 0%;
+  --font-paragraph-medium-paragraph-spacing: 0;
+  --font-paragraph-medium-text-case: none;
+  --font-paragraph-medium-text-decoration: none;
+  --font-paragraph-large-font-family: Roboto;
+  --font-paragraph-large-font-weight: Regular;
+  --font-paragraph-large-line-height: AUTO;
+  --font-paragraph-large-font-size: 24;
+  --font-paragraph-large-letter-spacing: 0%;
+  --font-paragraph-large-paragraph-spacing: 0;
+  --font-paragraph-large-text-case: none;
+  --font-paragraph-large-text-decoration: none;
+  --font-heading-medium-font-family: Roboto;
+  --font-heading-medium-font-weight: Bold;
+  --font-heading-medium-line-height: AUTO;
+  --font-heading-medium-font-size: 24;
+  --font-heading-medium-letter-spacing: 0%;
+  --font-heading-medium-paragraph-spacing: 0;
+  --font-heading-medium-text-case: none;
+  --font-heading-medium-text-decoration: none;
+  --font-heading-large-font-family: Roboto;
+  --font-heading-large-font-weight: Bold;
+  --font-heading-large-line-height: AUTO;
+  --font-heading-large-font-size: 30;
+  --font-heading-large-letter-spacing: 0%;
+  --font-heading-large-paragraph-spacing: $paragraphSpacing.2;
+  --font-heading-large-text-case: none;
+  --font-heading-large-text-decoration: none;
+  --font-body: #333333;
+  --text-case-none: none;
+  --text-decoration-none: none;
+  --small: 10;
+  --medium: 20;
+}
